@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 import bunnySleeping from '../assets/bunny_sleeping.png';
-import bunnyAngry from '../assets/bunny_angry.png';
+import bunnyAngry from '../assets/Bunny_angry.png';
 import bunnyHappy from '../assets/Bunny_happy.png';
 import SpeechBubble from './SpeechBubble';
 
